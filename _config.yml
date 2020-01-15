@@ -26,9 +26,6 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-remote-theme
-
-remote_theme: fongandrew/hydeout
 
 # Sidebar link settings
 sidebar_home_link:  true
